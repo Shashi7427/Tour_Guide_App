@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">IIT Kharagpur</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_attraction">Attractions</string>
+    <string name="category_accommodation">Accommodation</string>
+    <string name="category_restaurant">Restaurant</string>
+    <string name="category_events">Events</string>
+
+    <string name="guesthouse1">Visvesvaraya guest house</string>
+    <string name="guesthouse2">Technology guest house</string>
+    <string name="guesthouse3">Salt Lake Guest House-Kolkata</string>
+    <string name="guesthouse4">New Technology guest house</string>
+    <string name="guesthouseaddress1">IIT Kharagpur Campus\n  Kharagpur 721302\n \n Telephone :\n  91–3222–282880(Reception)</string>
+    <string name="guesthouseaddress2">Technology Guest House\n Indian Institute of Technology Kharagpur \n Kharagpur 721302</string>
+    <string name="guesthouseaddress3">IIT Kharagpur Kolkata Campus\n + HC Block, Sector – III\n + Salt Lake City\n + "Kolkata – 700106</string>
+    <string name="guesthouseaddress4">Indian Institute of Technology Kharagpur\n Kharagpur 721302\n Telephone :\n+ 91–3222–282800 (Reception)</string>
+
+
+    <string name="attraction_nehru_museum">Nehru museum of science and technology</string>
+    <string name="attraction_helipad">Helipad IIT kgp</string>
+    <string name="attraction_gymkhana_park">Gymkhana Park</string>
+    <string name="attraction_lake_park">Lake Park</string>
+    <string name="attraction_hijli_eco_park">Hijli Eco Park</string>
+    <string name="attraction_description_nehru_park">It was founded in 1990 at the Hijli Detention camp building, later the IIT-Kharagpur Heritage Building</string>
+    <string name="attraction_description_helipad">A very soothing place to relax and enjoy the braze of wind</string>
+    <string name="attraction_description_gymkhana_park">Nice place if you want to enjoy evening walks</string>
+    <string name="attraction_description_lake_park">Nice place for chilling out in the evening.</string>
+    <string name="attraction_description_hijli_eco_park">It’s a small natural park very close to IIT Kharagpur campus.</string>
+
+
+    <string name="event_kshitij">Kshitij</string>
+    <string name="event_independence">Independence day</string>
+    <string name="event_durga_puja">Durga Puja</string>
+    <string name="event_movies">Weekend Movies</string>
+    <string name="khitijDescription">Kshitij, the annual techno-management fest of IIT Kharagpur provides a platform for a confluence of students, academia, and the industry.</string>
+    <string name="independenceDescription">Independence day 15th October is celebrated every year at the campus. All staff members students take part in various cultural activities </string>
+    <string name="durgaDescription">You might have thought iit kharagpur is a place only for study. but iit kharagpur is a famous  place many cultural festivals Durga puja .</string>
+    <string name="movieDescription">Technology film society of iit kgp organizes weekly movies.</string>
+
+    <string name="veggiesRestaurant">Veggies</string>
+    <string name="heritageRestaurant">Heritage</string>
+    <string name="smartPindRestaurant">Smart Pind</string>
+    <string name="tikkaRestaurant">Tikka</string>
+    <string name="dreamlandRestaurant">Dreamland</string>
+    <string name="veggiesDescription">The menu of Indian cuisine is to the pleasure of all visitors here. And don\'t miss the opportunity to drink good tea.</string>
+    <string name="heritageDescription">It\'s easily the best bet for having good food inside IIT Kharagpur.</string>
+    <string name="smartpindDescription">only place where we can get good north indian food, friendly manager and waiters.</string>
+    <string name="tikkaDescription">Tikka is a beautiful restaurant at the heart of iit kgp</string>
+    <string name="dreamlandDescription">One of the top rated places inside the campus</string>
+
+
+
+
+
+</resources>
